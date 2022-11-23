@@ -18,3 +18,12 @@ html, body {
 	pointer-events: none;
 	height: 80%;
 }
+.footer{
+	height: 20%;
+}
+#footer{
+	height: 20%;
+}
+footer{
+	height: 20%;
+}
